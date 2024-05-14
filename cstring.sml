@@ -1,3 +1,5 @@
+(* Copyright (c) 2005, 2006 Henning Niss and Ken Friis Larsen.         *)
+(* All rights reserved. See the file LICENSE for license information.  *)
 
 signature CString =
 sig
